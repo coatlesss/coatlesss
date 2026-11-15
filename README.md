@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey, I'm Cameron!
 
-<!--
-**coatlesss/coatlesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Clemson University** with a passion for IT infrastructure, cloud computing, system administration, and building technology that solves real-world problems.
 
-Here are some ideas to get you started:
+I enjoy working across hardware and software, whether that means configuring Linux servers, building homelabs, experimenting with AI, or developing useful open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- **Homelab & Infrastructure** — Building a multi-node Proxmox environment, managing Linux VMs, and automating infrastructure with Ansible.
+- **AnkiPop** — Developing an open-source Japanese learning tool with OCR, dictionary lookups, translations, and Anki integration.
+- **AI & Computer Vision** — Exploring edge AI, NVIDIA Jetson devices, and real-time computer vision applications.
+- **Cloud Computing** — Developing practical skills in AWS, Azure, networking, and infrastructure automation.
+
+### Technologies & Tools
+**Infrastructure:** Linux, Proxmox, Ansible, Git, Windows Server
+
+**Cloud & Networking:** AWS, Azure, TCP/IP, SSH
+
+**Programming:** Python, Java, C++, JavaScript
+
+**Other:** Docker, GitHub, VS Code, NVIDIA Jetson
+
+### A little more about me
+- Studying at Clemson University
+- Previously worked on technology projects during an internship in Tokyo, Japan
+- Interested in cloud engineering, systems administration, and IT infrastructure
+- Always looking for opportunities to learn something new and build something useful
+
+### Connect with me
+Check out my repositories to see what I'm building!
