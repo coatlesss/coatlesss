@@ -21,7 +21,6 @@ I enjoy working across hardware and software, whether that means configuring Lin
 **Other:** Docker, GitHub, VS Code, NVIDIA Jetson
 
 ### A little more about me
-- Studying at Clemson University
 - Worked for a company in Tokyo in person and am currently working for them remotely
 - Interested in cloud engineering, systems administration, and IT infrastructure
 - Always looking for opportunities to learn something new and build something useful
