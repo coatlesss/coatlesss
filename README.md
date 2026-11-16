@@ -6,6 +6,7 @@ I enjoy working across hardware and software, whether that means configuring Lin
 
 ### What I'm working on
 - **Homelab & Infrastructure** — Building a multi-node Proxmox environment, managing Linux VMs, and automating infrastructure with Ansible.
+- **PhasmoProject** — A research-focused reverse engineering project exploring the internal mechanics of Phasmophobia, including game memory analysis, cheat development, and runtime behavior modification in a controlled,     offline environment.
 - **AnkiPop** — Developing an open-source Japanese learning tool with OCR, dictionary lookups, translations, and Anki integration.
 - **AI & Computer Vision** — Exploring edge AI, NVIDIA Jetson devices, and real-time computer vision applications.
 - **Cloud Computing** — Developing practical skills in AWS, Azure, networking, and infrastructure automation.
