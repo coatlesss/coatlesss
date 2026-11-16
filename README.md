@@ -1,4 +1,4 @@
-## Hey, I'm Cameron!
+## Cameron Browning
 
 I'm a student at **Clemson University** with a passion for IT infrastructure, cloud computing, system administration, and building technology that solves real-world problems.
 
